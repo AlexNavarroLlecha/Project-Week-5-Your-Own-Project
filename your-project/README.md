@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Data Analysis in Rugby: Proportion of Yellow and Red Cards 
+*[Alex Navarro Llecha]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analysis, Barcelona & October 2019]*
 
 ## Content
 - [Project Description](#project-description)
@@ -19,11 +19,17 @@ Write a short introduction to your project: 3-5 sentences about the context of y
 ## Questions & Hypotheses
 What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
 
+
+
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+
+Sport Radar API, Rugby Union: https://developer.sportradar.com/docs/read/rugby/Rugby_v2#daily-live-results
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
+
+1º Step: Look for questions about the red and yellow Cards
+2º Step: 
 
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
