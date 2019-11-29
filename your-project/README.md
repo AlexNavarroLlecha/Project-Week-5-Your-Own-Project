@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Data Analysis in Rugby: Proportion of Yellow and Red Cards 
+# Data Analysis in Rugby: Proportion of Yellow and Red Cards 
 *[Alex Navarro Llecha]*
 
 *[Data Analysis, Barcelona & October 2019]*
@@ -15,10 +15,10 @@
 
 ## Project Description
 
-In this project, I decide to talk about the red and yellow cards in rugby because many people do not know how they work and even for myself, some of the positions in the field have more tendency to receive cards than the others. Using the information from The Six Nations competition. And look inside the Forwards, which is the position with more Cards? I think it should be the 
+In this project, I decide to talk about the red and yellow cards in rugby because many people do not know how they work and even for myself, some of the positions in the field have more tendency to receive cards than the others. Using the information from The Six Nations competition. And look inside the Forwards, which is the position with more Cards? I think it should be the flanker or BR, the players in the 3ºrow who obtain more cards as they play in each move.
+
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
 
 Which is the Team/Country with more yellow Cards?
 
@@ -59,9 +59,12 @@ I use Trello for managing my workflow. Create a map in a sheet of paper and then
 
 What does your repository look like? Explain your folder and file structure.
 
+My repository has a folder with the files for the project, a gitignore. Inside the folder we find the files for the data cleaning, the paper, a jupyter notebook with some tables about the data and a folder with the Tableau graphics.
+
+
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/AlexNavarroLlecha/Project-Week-5-Your-Own-Project)  
+[Slides](https://github.com/AlexNavarroLlecha/Project-Week-5-Your-Own-Project/blob/master/your-project/Data_Rugby_PPT.pdf)  
+[Trello](https://trello.com/b/QUeRDXgy/project-4-own-project)  
