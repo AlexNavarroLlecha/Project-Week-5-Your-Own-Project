@@ -17,9 +17,9 @@ First of all, I would like to explain the main points about the cards at Rugby, 
 As we can see, The country with more yellow cards is England with 54, follow by Scotland and Wales ( with 46 and 41). This is something strange because the winner of the last Six Nations is England, and receiving so many yellow cards, it means that more players were kick out from the field and more time without all the players. But if we have a look into the red cards, the country with more red cards is Italy with only 5, follow by England with 3. This number of red card could make sense for Italy with is the one with more lost matches of the six countries. However, England is follow by, which again makes non sense. Or at least we can say that the red cards and yellow do not really make a lot of differences in the matches and final results.
 
 
-#### 2. Which FIeld Position has the highest number of Cards?
+#### 2. Which Field Position has the highest number of Cards?
 
-![Field Position]( Tableau_Rugby_Project/Country_by_number_of_yellow_cards.png)
+![Field Position]( Tableau_Rugby_Project/Field_Position_by_Cards.png)
 
 From this new graphic, we can observe that the forwards are the ones with more yellow cards and red cards because they are the rock of the team, the only ones that are taqueling all the time due to the fact they are the defence of the team, and they play the mele and the scrums, where there is more dirty plays than in the Back Position where they enter in contact 15 time per match as maximum.
 
