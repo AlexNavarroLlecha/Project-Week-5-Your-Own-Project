@@ -30,7 +30,7 @@ From this new graphic, we can observe that the forwards are the ones with more y
 
 During the analyse, I was thinking that, from the Forwards, the 3º row is the one with more yellow cards becuase they are in all the playes. When they attack, they are the link between the forwards and the back. When they deffend, they are all the time deffending and reaching all the new attacks from the rival. This is why my hypothesis is that the 3º row has the highest number of yellow cards.
 
-![Field Map]( Tableau_Rugby_Project/Field_Position.png)
+![Field Map]( Tableau_Rugby_Project/Field_position.png)
 
 The results we can see are that, the 3º row is the BR position has only 38 yellow cards, with all the players of that position. This result is not the spected value because the PR, the number 1 and 3 of the field position.
 
